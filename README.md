@@ -29,3 +29,7 @@ library(mohamed)
 ## basic example code
 ```
 
+
+``` python
+a = 21
+```
