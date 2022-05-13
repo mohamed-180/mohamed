@@ -19,6 +19,8 @@ devtools::install_github("mohamed-180/mohamed")
 
 This is a basic example which shows you how to solve a common problem:
 
+ 
+هذا اول مشروع بالعربي علي  github
 ``` r
 library(mohamed)
 ## basic example code
