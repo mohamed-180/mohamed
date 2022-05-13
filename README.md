@@ -20,6 +20,7 @@ devtools::install_github("mohamed-180/mohamed")
 This is a basic example which shows you how to solve a common problem:
 
 بسم الله الرحمن الرحيم
+
 الحمد لله رب العالمين
  
 هذا اول مشروع بالعربي علي  github
